@@ -1,0 +1,57 @@
+{
+    "dashboard_title": "Dashboard Kit",
+    "main": "Overview",
+    "cards": [
+      {
+        "card_name": "Unresolved",
+        "task_number": 60
+      },
+      {
+        "card_name": "Overdue",
+        "task_number": 16
+      },
+      {
+        "card_name": "Open",
+        "task_number": 43
+      },
+      {
+        "card_name": "On hold",
+        "task_number": 64
+      }
+    ],
+    "graph": [
+      {
+        "card_name": "Resolved",
+        "task_number": 449
+      },
+      {
+        "card_name": "Received",
+        "task_number": 426
+      },
+      {
+        "card_name": "Average first response time",
+        "task_number": "33m"
+      },
+      {
+        "card_name": "Average response time",
+        "task_number": "3h 8m"
+      },
+      {
+        "card_name": "Resolution within SLA",
+        "task_number": "94%"
+      }
+    ],
+    
+    "sidebar_items": [
+      "Overview",
+      "Tickets",
+      "Ideas",
+      "Contacts",
+      "Agents",
+      "Articles"
+    ],
+    "additional_Items": [
+      "Settings",
+      "Subscription"
+    ]
+  }
